@@ -1,0 +1,5 @@
+.env
+rise.db
+private_uploads/
+__pycache__/
+*.pyc
